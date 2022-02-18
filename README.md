@@ -1,4 +1,4 @@
-# Jumia Test
+# Redu Test
 ## Installation guide
 - Clone the repo`https://github.com/Bugzee321/redu`
 - Navigate to the project `cd redu/`
